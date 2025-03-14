@@ -8,3 +8,5 @@
 #### https://youtu.be/Lb5ADHnRQV8?si=_OL1dFy_rO35NTHh
 #### https://datascience.stackexchange.com/questions/46245/off-policy-n-step-learning-with-dqn
 #### https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do
+#### C51 algo
+https://youtu.be/r-Yk6-jagDU?si=LTlt-l6Kx79Sk--6
