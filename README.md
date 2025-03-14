@@ -10,3 +10,5 @@
 #### https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do
 #### C51 algo
 https://youtu.be/r-Yk6-jagDU?si=LTlt-l6Kx79Sk--6
+#### Code: DQN to rainbow DQN
+https://github.com/Curt-Park/rainbow-is-all-you-need?tab=readme-ov-file
