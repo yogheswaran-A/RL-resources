@@ -1,5 +1,6 @@
 # RL-resources
 
+#### Reinforcement Learning: A Comprehensive Overview: https://arxiv.org/abs/2412.05265v2   
 #### https://spinningup.openai.com/en/latest/
 #### https://julien-vitay.net/deeprl/src/1.5-TD.html
 #### https://lilianweng.github.io/posts/2018-02-19-rl-overview/#key-concepts
