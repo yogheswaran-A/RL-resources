@@ -16,5 +16,7 @@ https://github.com/Curt-Park/rainbow-is-all-you-need?tab=readme-ov-file
 #### Policy gradients
 https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/     
 https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/   
-#### Natural gradients: 1) https://agustinus.kristia.de/blog/fisher-information/ ; 2) https://agustinus.kristia.de/blog/natural-gradient/
+#### Natural gradients: 1) https://agustinus.kristia.de/blog/fisher-information/ ; 2) https://agustinus.kristia.de/blog/natural-gradient/      
+#### PPO code explained, 4 part series: https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8     
+
 
